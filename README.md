@@ -38,10 +38,10 @@ GET /ask?question=What is Java?
 ## 📸 Screenshots
 
 ### /ask Endpoint — Java Question
-![Java Question](screenshot1.png)
+![Java Question](Screenshot1.png)
 
 ### /ask Endpoint — Spring Boot Question  
-![Spring Boot Question](screenshot2.png)
+![Spring Boot Question](Screenshot2.png)
 
 ## 👩‍💻 Author
 
