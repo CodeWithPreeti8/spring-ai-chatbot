@@ -35,6 +35,14 @@ GET /ask?question=What is Java?
 5. Test with Postman:
    localhost:8080/ask?question=Hello
 
+## 📸 Screenshots
+
+### /ask Endpoint — Java Question
+![Java Question](screenshot1.png)
+
+### /ask Endpoint — Spring Boot Question  
+![Spring Boot Question](screenshot2.png)
+
 ## 👩‍💻 Author
 
 CodeWithPreeti8
